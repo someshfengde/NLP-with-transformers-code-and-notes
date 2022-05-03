@@ -1,17 +1,17 @@
-# NLP-with-transformers-code-and-notes
+# 🤗NLP-with-transformers-code-and-notes
 this repo contains my implemnetation and notes from NLP with transformers book 
 
 ## My notes for this notebook are on Notion
 Link: 
 https://somesh-fengade.notion.site/0a63c73a5fde49ec8f33f9797c303d45?v=eabb47313ed642c29983152e446a1000
 
-## Chapter 1: Introduction to transformers ✔️
+## Chapter 1: Introduction to 🤗 transformers ✔️
 introduced pipeline structure and basic information about transformers and about huggingface 
 
 [Link to notes chapter_1](https://somesh-fengade.notion.site/Chapter-1-hello-transformers-d0162fad758c4fb1b24f78f9cac6ed83)
 
 
-## Chapter 2: Text classification with transformers ✔️
+## Chapter 2: Text classification with 🤗 transformers ✔️
 used 🤗 accelerate library for training distilbert 
 and 🤗 dataset library for getting dataset from internet 
 typical training 
